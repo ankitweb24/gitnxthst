@@ -8,7 +8,7 @@ export const Hero_content = () => {
         
         <div className={style.btns_grps}>
             <button className={style.btn}>i need a website </button>
-            <button className={style.btn}>i'm looking to hire </button>
+            <button className={style.btn}>i am looking to hire </button>
         </div>
     </div>
   )
